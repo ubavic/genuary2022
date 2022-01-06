@@ -12,6 +12,8 @@
 
 ## 3 Space
 
+![Constellation map](day03/day03.png)
+
 ## 4 The next next Fidenza
 
 ## 5 Destroy a square
