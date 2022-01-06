@@ -4,7 +4,11 @@
 
 ## 1 Draw 10,000 of something
 
+![10,000 squares](day01/day01.png)
+
 ## 2 Dithering
+
+![Torus](day02/day02.png)
 
 ## 3 Space
 
