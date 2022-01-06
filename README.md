@@ -18,4 +18,6 @@
 
 ## 5 Destroy a square
 
+![Mondrian](day05/day05.png)
+
 ## 6 Trade styles with a friend
