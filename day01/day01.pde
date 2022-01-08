@@ -10,7 +10,7 @@ void draw() {
 	int r = 10;
 	float s = 1, f = 1;
 	
-	  for (int x = 0; x < 100; x++) {
+	for (int x = 0; x < 100; x++) {
 		for (int y = 0; y < 100; y++) {
 			s = (y / 100.0) + 0.1;
 			f = random(r) * s;
