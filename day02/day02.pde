@@ -43,9 +43,8 @@ void draw() {
 			
 			if (t < 0)
 				pixels[x + y * width] = (random(1) > 0.99) ? color(0, 0, 170) : color(0, 0, 90);
-			else{
-				n = gradient(PVector.add(O, p.mult(t)));
-				n.normalize();
+			else {
+				n = gradient(PVector.add(O, p.mult(t))).normalize();
 				t = 0.3 + 0.5 * PVector.dot(n, up) + random(0.1);
 				
 				pixels[x + y * width] = color(t * 240, 0, 0);
