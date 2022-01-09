@@ -28,6 +28,8 @@
 
 ## 8. Single curve only
 
+![Gosper curve](day08/day08.png)
+
 ## 9. Architecture
 
 ## 10. Machine learning, wrong answers only
