@@ -38,6 +38,8 @@
 
 ## 12. Packing (squares, circles, any shape…)
 
+![Circles inside square](day12/day12.png)
+
 ## 13. 80x800
 
 ## 14. Something you’d never make
