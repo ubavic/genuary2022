@@ -42,6 +42,8 @@
 
 ## 13. 80x800
 
+![Labyrinth](day13/day13.png)
+
 ## 14. Something you’d never make
 
 ## 15. Sand
