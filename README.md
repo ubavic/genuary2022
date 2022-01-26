@@ -62,6 +62,8 @@
 
 ## 22. Make something that will look completely different in a year
 
+![Dashes](day22/day22.png)
+
 ## 23. Abstract vegetation
 
 ## 24. Create your own pseudo-random number generator and visually check the results
