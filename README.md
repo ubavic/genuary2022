@@ -54,11 +54,11 @@
 
 ## 18. VHS
 
-## 19. Make a sea of shapes
+## 19. Use text/typography
 
-## 20. Combine two (or more) of your pieces from previous days to make a new piece
+## 20. Make a sea of shapes
 
-## 21. VHS
+## 21. Combine two (or more) of your pieces from previous days to make a new piece
 
 ## 22. Make something that will look completely different in a year
 
