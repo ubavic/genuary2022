@@ -60,6 +60,12 @@
 
 ## 20. Make a sea of shapes
 
+Video created with
+
+```
+ffmpeg -framerate 60 -i day20-%04d.png -vcodec libvpx-vp9 -b:v 10M day20.webm
+```
+
 ![Flatland](day20/day20.webm)
 
 ## 21. Combine two (or more) of your pieces from previous days to make a new piece
