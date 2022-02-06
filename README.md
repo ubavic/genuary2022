@@ -60,6 +60,8 @@
 
 ## 20. Make a sea of shapes
 
+![Flatland](day20/day20.webm)
+
 ## 21. Combine two (or more) of your pieces from previous days to make a new piece
 
 ## 22. Make something that will look completely different in a year
