@@ -52,6 +52,8 @@
 
 ## 17. 3 colors
 
+![Tricolore](day17/day17.png)
+
 ## 18. VHS
 
 ![Sleeve](day18/day18.png)
