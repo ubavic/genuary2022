@@ -50,6 +50,8 @@
 
 ## 16. Color gradients gone wrong
 
+![Whirlpool](day16/day16.png)
+
 ## 17. 3 colors
 
 ![Tricolore](day17/day17.png)
