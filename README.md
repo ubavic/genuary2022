@@ -94,4 +94,6 @@ ffmpeg -framerate 60 -i day20-%04d.png -vcodec libvpx-vp9 -b:v 10M day20.webm
 
 ## 30. Organic looking output using only rectangular shapes
 
+![Tree](day30/day30.png)
+
 ## 31. Negative space
