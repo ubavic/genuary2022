@@ -88,6 +88,8 @@ ffmpeg -framerate 60 -i day20-%04d.png -vcodec libvpx-vp9 -b:v 10M day20.webm
 
 ## 27. #2E294E #541388 #F1E9DA #FFD400 #D90368
 
+![i don't know](day27/day27.png)
+
 ## 28. Self portrait
 
 ## 29. Isometric perspective
